@@ -50,7 +50,7 @@ npm run qareport
 
 ## 🏃‍♀️ Run project via Github Actions
 
-[In the Github respository --> Actions](https://github.com/ivanovakatya/Automation-Playwright-Tests-for-Strypes/actions)
+[In the Github respository --> Actions](https://github.com/ivanovakatya/Automation-Playwright-Tests-for-Strypes/actions/workflows/playwright.yml)
 
 - Click on `Run workflow`
 - Click on the button `Run workflow again`
