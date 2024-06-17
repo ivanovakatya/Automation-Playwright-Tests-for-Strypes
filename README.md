@@ -30,27 +30,19 @@ npx playwright install
 $ npx playwright install --with-deps
 ```
 
-3. Install node faker module needed for random email creation
-
-```bash
-npm i @faker-js/faker
-```
-
-4. Run Tests - In Headless mode
-
-<sub> :warning: **Always add** - npm run - before each run command :warning: </sub>
+3. Run Tests - In Headless mode
 
 ```bash
 npm run qatest
 ```
 
-5. Run Tests - In Headed mode (configured to run only on chrominum)
+4. Run Tests - In Headed mode (configured to run only on chrominum)
 
 ```bash
 npm run qaheaded
 ```
 
-6. To see the html report
+5. To see the html report
 
 ```bash
 npm run qareport
@@ -58,7 +50,7 @@ npm run qareport
 
 ## 🏃‍♀️ Run project via Github Actions
 
-[In the Github respository --> Actions](https://github.com/ivanovakatya/Automation-Playwright-Tests-for-Strypes)
+[In the Github respository --> Actions](https://github.com/ivanovakatya/Automation-Playwright-Tests-for-Strypes/actions)
 
 - Click on `Run workflow`
 - Click on the button `Run workflow again`
